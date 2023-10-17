@@ -1,0 +1,31 @@
+a { 
+	text-decoration: none; 
+	color: #FFF;
+}
+
+ul {  
+	list-style-type: none;
+	margin: 0;
+	padding: 10px 20pxs;
+}
+
+#main-navbar {
+	background-color: blue;
+	color: #fff;
+}
+
+#navbar-container {
+	left: 50%;
+	position: relative;
+	padding: 10px 20px;
+}
+
+#sidebar-container {
+	background-color: red;
+	color: #fff;
+	position: fixed;
+	right: 0%;
+	height: 100%;
+	width:20%;
+	padding: 15px 0;
+}
